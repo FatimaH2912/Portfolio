@@ -20,6 +20,10 @@ function Contact() {
         <a href="https://www.linkedin.com/in/fatima-haroon071229" target="_blank" rel="noreferrer">
           🔗 LinkedIn
         </a>
+
+        <a href="https://calendly.com/fatimaharoon" target="_blank" rel="noopener noreferrer">
+          🗓️ Book a Meeting
+        </a>
       </div>
     </section>
   );
